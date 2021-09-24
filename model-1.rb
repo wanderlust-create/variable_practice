@@ -7,3 +7,5 @@ booleans
 am_I_tired = yes
 is_she_cuddly = yes
 is_food_good = no
+arrays
+love = ['cuddles', 'pets', 'validation', 'listening']
