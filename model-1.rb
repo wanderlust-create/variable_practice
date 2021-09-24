@@ -9,3 +9,5 @@ is_she_cuddly = yes
 is_food_good = no
 arrays
 love = ['cuddles', 'pets', 'validation', 'listening']
+hashes
+drinks = {'coffee' => 1, 'juice' => 2, 'tea' => 20 'milk' => 12}
